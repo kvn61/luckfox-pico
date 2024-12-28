@@ -1,1 +1,0 @@
-buildcfg_A2DP.h
