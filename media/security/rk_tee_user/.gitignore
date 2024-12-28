@@ -1,9 +1,0 @@
-*.o
-*.elf
-*.o.*
-*.lds
-*.d
-*.dmp
-*.map
-*.patch
-/out
